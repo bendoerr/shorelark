@@ -1,0 +1,12 @@
+[package]
+name = "neural-network"
+version = "0.1.0"
+authors = ["Ben Doerr <ben.doerr@luminsmart.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.8.3"
+
+[dev-dependencies]
+rand_chacha = "0.3.1"
+approx = "0.5.0"
